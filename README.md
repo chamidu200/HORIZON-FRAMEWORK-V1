@@ -1,6 +1,10 @@
 
 # Secure V1 Framework 🔒
 
+<p align="center"> <img src="https://github.com/chamidu200/HORIZON-FRAMEWORK-V1/blob/8bc33c98558c74133f9088c03c341a2aee17d77a/Capture.PNG" alt="chamidu200" /> </p>
+
+<p align="center"> <img src="https://github.com/chamidu200/HORIZON-FRAMEWORK-V1/blob/8bc33c98558c74133f9088c03c341a2aee17d77a/cap2.PNG" alt="chamidu200" /> </p>
+
 ![Secure V1 Framework Banner](https://img.shields.io/badge/Secure%20V1%20Framework-v1.0-blueviolet?style=for-the-badge)
 
 Welcome to the **Secure V1 Framework**! A powerful Python-based tool for penetration testing and security research. This framework allows you to manage remote sessions, reverse TCP handlers, HoaxShell engines, and file smuggling capabilities.
