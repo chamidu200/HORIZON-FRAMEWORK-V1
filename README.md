@@ -47,8 +47,8 @@ The **Secure V1 Framework** is a versatile toolset for managing remote sessions,
 Clone the repository from GitHub:
 
 ```bash
-git clone https://github.com/chamidu200/Secure-V1-Framework.git
-cd Secure-V1-Framework
+git clone https://github.com/chamidu200/HORIZON-FRAMEWORK-V1.git
+cd HORIZON-FRAMEWORK-V1
 ```
 
 > **Note**: Replace the URL with your actual GitHub repository URL if needed.
@@ -72,7 +72,7 @@ pip install requests
 To start the framework, execute:
 
 ```bash
-python3 main.py
+python3 Secure-Framework.py
 ```
 
 This will launch the team server, HoaxShell, reverse TCP handler, and file smuggler with default settings.
@@ -179,8 +179,8 @@ This `README.md` is visually structured, including emojis and clear steps for in
 ### ගිට්හුබ් ගොනුවට යන්න
 
 ```bash
-git clone https://github.com/chamidu200/Secure-V1-Framework.git
-cd Secure-V1-Framework
+git https://github.com/chamidu200/HORIZON-FRAMEWORK-V1.git
+cd HORIZON-FRAMEWORK-V1
 ```
 
 ### අවශ්‍ය පොදු පොදු මෘදුකාංග
@@ -196,7 +196,7 @@ pip install requests
 ### ස්ක්‍රිප්ට් එක ධාවනය කිරීම
 
 ```bash
-python3 main.py
+python3 Secure-Framework.py
 ```
 
 ### LHOST සකස් කිරීම 🖥️
